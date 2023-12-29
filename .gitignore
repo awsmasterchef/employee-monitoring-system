@@ -1,0 +1,83 @@
+*.py[cod]
+.idea/*
+.vs/
+.vscode
+.coverage
+.ipynb_checkpoints/*
+dump.rdb
+/data/*
+/logs/*
+env/*
+venv/*
+virtual/*
+
+
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+services/identity/.idea/
+.idea/*
+*.iws
+*.iml
+*.ipr
+
+
+### VS Code ###
+.vscode/
+
+*.swp
+package-lock.json
+__pycache__
+.pytest_cache
+# .env
+*.egg-info
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+build/
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.prettierrc
+temp.js
+.vscode
+temp.js
+/python/
+/python/

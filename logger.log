@@ -1,0 +1,25 @@
+2023-12-29 16:34:47,751 - CRITICAL - collection process started
+2023-12-29 16:34:47,751 - CRITICAL - screen_shot_collector_worker started
+2023-12-29 16:34:47,751 - CRITICAL - detect_inactivity_worker started
+2023-12-29 16:34:47,761 - CRITICAL - screen_lock_check_worker started
+2023-12-29 16:34:48,759 - CRITICAL - process Running
+2023-12-29 16:34:49,077 - CRITICAL - Screenshot saved in binary format to: data_store\screenshot_2023-12-29_16-34-49.bin
+2023-12-29 16:35:20,099 - CRITICAL - process Running
+2023-12-29 16:35:20,253 - CRITICAL - Screenshot saved in binary format to: data_store\screenshot_2023-12-29_16-35-20.bin
+2023-12-29 16:35:27,859 - CRITICAL - Alert send true
+2023-12-29 16:35:27,859 - CRITICAL - get message in screen lock thread{'device_inactivity': True}<class 'dict'>
+2023-12-29 16:35:27,859 - CRITICAL - result is False
+2023-12-29 16:35:32,861 - CRITICAL - Alert send false
+2023-12-29 16:35:47,870 - CRITICAL - get message in screen lock thread{'device_inactivity': False}<class 'dict'>
+2023-12-29 16:35:50,266 - CRITICAL - get message{'device_inactivity': True}<class 'dict'>
+2023-12-29 16:35:50,266 - CRITICAL - process stopped
+2023-12-29 16:35:52,889 - CRITICAL - Alert send true
+2023-12-29 16:35:52,889 - CRITICAL - get message in screen lock thread{'device_inactivity': True}<class 'dict'>
+2023-12-29 16:35:52,889 - CRITICAL - result is True
+2023-12-29 16:36:17,952 - CRITICAL - Alert send false
+2023-12-29 16:36:20,278 - CRITICAL - get message{'device_inactivity': False}<class 'dict'>
+2023-12-29 16:36:20,278 - CRITICAL - process Running
+2023-12-29 16:38:43,219 - CRITICAL - Alert send true
+2023-12-29 16:42:03,605 - CRITICAL - Alert send false
+2023-12-29 16:43:53,781 - CRITICAL - Alert send true
+2023-12-29 16:44:23,847 - CRITICAL - Alert send false

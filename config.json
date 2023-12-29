@@ -1,0 +1,8 @@
+{
+  "screenshot_interval": 30,
+  "inactivity_threshold": 15,
+  "inactivity_check_frequency": 5,
+  "screen_lock_check_frequency": 20,
+  "browser_history_sync_frequency" : 600,
+  "current_version": "royjPPVmdq432hUDD72UaY.gO1b4sdbA"
+}

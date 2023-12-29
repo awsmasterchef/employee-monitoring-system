@@ -1,0 +1,10 @@
+Application startup
+
+Start 3 threads
+1. Process for reading data from local directory and sql db and zip it and upload aws s3 or dynamodb
+2. Process for taking screenshot after a certain interval (interval should be read from a json file) -> Done
+3. Process for checking inactivity time
+    -> if it exceeds screenshot taking interval, stop the screenshot taking process
+    -> Also check if screen is lock or not
+4. Process for checking logs from browsers and process logs relevantly to get which sites are most visited
+5. Process for subscribing on SQS queue just to listen some events like change in screenshot taking interval
