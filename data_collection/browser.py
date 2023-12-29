@@ -34,6 +34,7 @@ def browser_history_collector_worker():
         connection.close()
         os.remove('temp_history.db')
         insert_visits(urls)
+
         time.sleep(read_config_file('browser_history_sync_frequency'))
 
 
